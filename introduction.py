@@ -5,4 +5,4 @@
 print("Stacy")
 print("eMobilis")
 print(39)
-print(100*2)
+print(100*2)g
