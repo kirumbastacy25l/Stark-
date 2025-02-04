@@ -10,7 +10,7 @@ language = "Python"
 a = 10
 b = 15
 
-word = "The sum"
+word = "The sum of"
 
 print(number)
 
@@ -22,7 +22,7 @@ print(language, "is a web programming language")
 
 print(a + b)
 
-print(word,"of" " 10 and 15 is ",a + b)
+print("The sum of ",a, "and" ,b, "is",a+b)
 
 
 
